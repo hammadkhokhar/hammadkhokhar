@@ -1,14 +1,12 @@
 <h2> < H e l l o />  ! <img src="https://user-images.githubusercontent.com/24506417/117751028-da429080-b22d-11eb-8e23-bc46a1f0db13.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/24506417/117748639-d57bdd80-b229-11eb-9122-3ed887aa1c6e.gif' width='250"'>
+<img align='right' src='https://user-images.githubusercontent.com/24506417/117748639-d57bdd80-b229-11eb-9122-3ed887aa1c6e.gif' width='200"'>
 
 <a href="https://twitter.com/hammadkhokhar" target="_blank">![Twitter Follow](https://img.shields.io/twitter/follow/hammadkhokhar?color=blue&logo=twitter&logoColor=blue&style=for-the-badge)</a>
 <a href="https://t.me/hammadkhokhar" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:hammad.khokhar@hotmail.com" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/hammad.khokhar@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 
-
 I'm Hammad Khokhar 😊. I am from Karachi, Pakistan and lives in London, United Kingdom.
-
 ![hammadkhokhar's github trophy](https://github-profile-trophy.vercel.app/?username=hammadkhokhar&title=Commit&theme=juicyfresh&no-bg=true)
 
 ## 👯 Communities
