@@ -2,7 +2,7 @@
 
 <a href="https://twitter.com/hammadkhokhar" target="_blank">![Twitter Follow](https://img.shields.io/twitter/follow/hammadkhokhar?color=blue&logo=twitter&logoColor=blue&style=for-the-badge)</a>
 <a href="https://t.me/hammadkhokhar" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:hammad.khokhar@hotmail.com" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/hammad.khokhar@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<a href="mailto:hello@hammadkhokhar.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/hello@hammadkhokhar.com-0A0B0B?style=for-the-badge" /></a>
 
 I'm Hammad Khokhar 😊 / I am from Karachi, Pakistan.
 ![hammadkhokhar's github trophy](https://github-profile-trophy.vercel.app/?username=hammadkhokhar&title=Commit&theme=juicyfresh&no-bg=true)
