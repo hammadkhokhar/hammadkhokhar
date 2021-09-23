@@ -4,7 +4,6 @@
 <a href="https://t.me/hammadkhokhar" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:hello@hammadkhokhar.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/hello@hammadkhokhar.com-0A0B0B?style=for-the-badge" /></a>
 
-I'm Hammad Khokhar 😊 / I am from Karachi, Pakistan.
 ![hammadkhokhar's github trophy](https://github-profile-trophy.vercel.app/?username=hammadkhokhar&title=Commit&theme=juicyfresh&no-bg=true)
 
 ## ⚡ Top Technologies
