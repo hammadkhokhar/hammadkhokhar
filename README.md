@@ -1,7 +1,5 @@
 <h2> Hi <img src="https://user-images.githubusercontent.com/24506417/117751028-da429080-b22d-11eb-8e23-bc46a1f0db13.gif" width="30px"></h2>
 
-<a href="https://twitter.com/hammadkhokhar" target="_blank">![Twitter Follow](https://img.shields.io/twitter/follow/hammadkhokhar?color=blue&logo=twitter&logoColor=blue&style=for-the-badge)</a>
-<a href="https://t.me/hammadkhokhar" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:hello@hammadkhokhar.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/hello@hammadkhokhar.com-0A0B0B?style=for-the-badge" /></a>
 
 ## 🛠️ Languages and Tools :
@@ -43,3 +41,6 @@
 
 ## 💻 Workspace Spec
 <img alt="MacBook" src="https://img.shields.io/badge/Apple-MacBook_Pro_M1-999999?style=for-the-badge&logo=apple&logoColor=white" />
+
+
+<a href="https://twitter.com/hammadkhokhar" target="_blank">![Twitter Follow](https://img.shields.io/twitter/follow/hammadkhokhar?color=blue&logo=twitter&logoColor=blue&style=for-the-badge)</a>
