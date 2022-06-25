@@ -1,4 +1,4 @@
-<h2> Hi <img src="https://user-images.githubusercontent.com/24506417/117751028-da429080-b22d-11eb-8e23-bc46a1f0db13.gif" width="30px"></h2>
+<h2> Hi!
 
 📫 <a href="mailto:hello@hammadkhokhar.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/hello@hammadkhokhar.com-0A0B0B?style=for-the-badge" /></a>
 
