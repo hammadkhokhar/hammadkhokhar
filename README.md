@@ -1,6 +1,6 @@
 <h2>Hi! You could have been anywhere in the world right now, but you're here with me.</h2>
 <a href="https://github.com/thepiyushmalhotra">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=hammadkhokhar&count_private=true&show_icons=true&theme=dark" />
+  <img height="10em" src="https://github-readme-stats.vercel.app/api?username=hammadkhokhar&count_private=true&show_icons=true&theme=dark" />
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadkhokhar&theme=dark&layout=compact" />
 </a>
 
