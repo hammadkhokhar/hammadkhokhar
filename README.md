@@ -1,7 +1,4 @@
-<h2> Hi!
-
-📫 <a href="mailto:hello@hammadkhokhar.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/hello@hammadkhokhar.com-0A0B0B?style=for-the-badge" /></a>
-<h2> 📈 &nbsp;My GitHub History!</h2>
+<h2>Hi! You could have been anywhere in the world right now, but you're here with me.</h2>
 <a href="https://github.com/thepiyushmalhotra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hammadkhokhar&count_private=true&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadkhokhar&theme=dark&layout=compact" />
@@ -47,5 +44,6 @@
 ## 💻 Workspace Spec
 <img alt="MacBook" src="https://img.shields.io/badge/Apple-MacBook_Pro_M1-999999?style=for-the-badge&logo=apple&logoColor=white" />
  -->
-
+## 🔗 Connect :
 <a href="https://twitter.com/hammadkhokhar" target="_blank">![Twitter Follow](https://img.shields.io/twitter/follow/hammadkhokhar?color=blue&logo=twitter&logoColor=blue&style=for-the-badge)</a>
+  <a href="mailto:hello@hammadkhokhar.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/hello@hammadkhokhar.com-0A0B0B?style=for-the-badge" /></a>
