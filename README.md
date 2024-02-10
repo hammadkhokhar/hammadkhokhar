@@ -4,6 +4,9 @@ I'm Hammad, a cross-disciplinary developer with a background in creating and exe
 Whether it's developing new features, optimizing workflows, or troubleshooting issues, I'm always eager
 to tackle new challenges and find creative solutions.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadkhokhar&layout=compact&theme=dark&hide=html&hide_progress=true)
+
+
 ## 🚀 Quick Facts :
 - 🌱 I’m currently learning about `Quantum Computing`
 
