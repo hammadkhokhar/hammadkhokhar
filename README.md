@@ -13,4 +13,3 @@ to tackle new challenges and find creative solutions.
 ## 🔗 Connect :
 
   <a href="mailto:hello@hammadkhokhar.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/hello%40hammadkhokhar.com-0A0B0B?style=for-the-badge&logo=gmail" /></a> <a href="https://www.linkedin.com/in/hammadkhokhar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A0B0B?style=for-the-badge&logo=linkedin" /></a>
-
