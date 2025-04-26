@@ -1,6 +1,6 @@
 <h2>Hi! You could have been anywhere in the world right now, but you're here with me.</h2>
 
-I'm Hammad, a cross-disciplinary developer with a background in creating and executing innovative solutions.
+I'm Hammad, a cross-disciplinary engineer with a background in creating and executing innovative solutions.
 Whether it's developing new features, optimizing workflows, or troubleshooting issues, I'm always eager
 to tackle new challenges and find creative solutions.
 
